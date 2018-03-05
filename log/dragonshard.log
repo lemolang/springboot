@@ -1,0 +1,467 @@
+2018-03-01 10:08:27 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 1672 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 10:08:28 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 10:08:28 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 10:08:42 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 18.963 seconds (JVM running for 22.018) 
+2018-03-01 10:09:20 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 10:09:20 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-03-01 10:40:58 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7256 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 10:40:58 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 10:40:58 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 10:41:11 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.131 seconds (JVM running for 16.499) 
+2018-03-01 10:53:04 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 3728 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 10:53:04 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 10:53:04 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 10:53:13 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 10.938 seconds (JVM running for 12.155) 
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, title, url ) values ( ?, ?, ? )  
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), springboot(String), www.baidu.com(String) 
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 10:53:25 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 10:54:55 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 8248 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 10:54:55 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 10:54:55 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 10:55:08 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 13.623 seconds (JVM running for 15.705) 
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, title, url ) values ( ?, ?, ? )  
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), springboot(String), www.baidu.com(String) 
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 10:55:23 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:05:00 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9056 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:05:00 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:05:00 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:05:10 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.815 seconds (JVM running for 13.095) 
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, title, url ) values ( ?, ?, ? )  
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), springboot(String), www.baidu.com(String) 
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 11:05:22 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:08:15 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7560 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:08:15 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:08:15 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:08:24 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.471 seconds (JVM running for 12.718) 
+2018-03-01 11:12:58 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7376 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:12:58 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:12:58 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:13:09 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.46 seconds (JVM running for 13.801) 
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, title, url ) values ( ?, ?, ? )  
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), 测试验证(String), www://baidu.com(String) 
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 11:13:17 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:17:05 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7600 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:17:05 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:17:05 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:17:14 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.513 seconds (JVM running for 12.729) 
+2018-03-01 11:17:25 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, url ) values ( ?, ? )  
+2018-03-01 11:17:26 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), www://baidu.com(String) 
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, url ) values ( ?, ? )  
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), www://baidu.com(String) 
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 11:17:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:20:42 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 6404 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:20:42 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:20:42 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:21:44 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 8588 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:21:44 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:21:44 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:21:54 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.652 seconds (JVM running for 12.885) 
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, url ) values ( ?, ? )  
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), www://baidu.com(String) 
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 11:22:04 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:23:21 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9804 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:23:21 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:23:21 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:23:30 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.378 seconds (JVM running for 12.51) 
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, url ) values ( ?, ? )  
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), www://baidu.com(String) 
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-01 11:23:47 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-01 11:24:36 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 8356 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:24:36 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:24:36 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:24:45 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.654 seconds (JVM running for 13.468) 
+2018-03-01 11:34:48 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7900 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:34:48 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:34:48 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:34:58 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.894 seconds (JVM running for 13.094) 
+2018-03-01 11:35:48 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-01 11:35:48 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-01 11:35:48 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-01 11:35:52 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-01 11:35:52 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-01 11:35:52 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-01 11:39:07 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 8000 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:39:07 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:39:07 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:39:17 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.827 seconds (JVM running for 12.995) 
+2018-03-01 11:42:06 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7184 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 11:42:06 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 11:42:06 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 11:42:17 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 13.127 seconds (JVM running for 14.634) 
+2018-03-01 13:37:55 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 8700 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 13:37:55 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 13:37:55 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 13:38:05 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.979 seconds (JVM running for 13.169) 
+2018-03-01 16:12:53 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7020 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:12:53 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:12:53 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:12:59 [main] ERROR c.s.springboot.config.MybatisConfig : 
+ mybatis sqlSessionFactoryBean create error 
+java.lang.ClassCastException: com.github.pagehelper.PageHelper cannot be cast to org.apache.ibatis.plugin.Interceptor
+	at com.sunll.springboot.config.MybatisConfig.sqlSessionFactory(MybatisConfig.java:69)
+	at com.sunll.springboot.config.MybatisConfig$$EnhancerBySpringCGLIB$$9b33cda7.CGLIB$sqlSessionFactory$1(<generated>)
+	at com.sunll.springboot.config.MybatisConfig$$EnhancerBySpringCGLIB$$9b33cda7$$FastClassBySpringCGLIB$$47c9e6f0.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:228)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:358)
+	at com.sunll.springboot.config.MybatisConfig$$EnhancerBySpringCGLIB$$9b33cda7.sqlSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1427)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:162)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:588)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1173)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1067)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1342)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1249)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:585)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1264)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1138)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:585)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1264)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at com.sunll.springboot.SpringbootApplication.main(SpringbootApplication.java:14)
+2018-03-01 16:27:02 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7216 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:27:02 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:27:02 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:27:12 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.048 seconds (JVM running for 13.812) 
+2018-03-01 16:28:39 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:28:40 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:28:40 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:28:40 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:28:40 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-01 16:28:40 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 1(Integer) 
+2018-03-01 16:28:50 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 1 
+2018-03-01 16:30:18 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10692 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:30:18 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:30:18 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:30:29 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.541 seconds (JVM running for 14.099) 
+2018-03-01 16:31:38 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7156 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:31:38 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:31:38 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:31:48 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.128 seconds (JVM running for 13.314) 
+2018-03-01 16:33:31 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10532 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:33:31 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:33:31 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:33:42 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.954 seconds (JVM running for 14.149) 
+2018-03-01 16:34:28 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9648 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:34:28 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:34:28 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:34:39 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.8 seconds (JVM running for 14.368) 
+2018-03-01 16:35:12 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9404 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:35:12 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:35:12 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:35:23 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.83 seconds (JVM running for 13.947) 
+2018-03-01 16:37:22 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 5988 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:37:22 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:37:22 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:37:33 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.414 seconds (JVM running for 13.577) 
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 1(Integer) 
+2018-03-01 16:38:11 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 1 
+2018-03-01 16:38:35 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9168 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-01 16:38:35 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-01 16:38:35 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-01 16:38:44 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.179 seconds (JVM running for 12.62) 
+2018-03-01 16:38:51 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:38:52 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:38:52 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:38:52 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:38:52 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 1(Integer) 
+2018-03-01 16:38:52 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 1 
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 8(Integer) 
+2018-03-01 16:39:01 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 3 
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 8(Integer) 
+2018-03-01 16:39:21 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 3 
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 8(Integer) 
+2018-03-01 16:39:22 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 3 
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?, ?  
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer), 2(Integer) 
+2018-03-01 16:39:30 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 1 

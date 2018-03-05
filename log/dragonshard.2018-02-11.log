@@ -1,0 +1,146 @@
+2018-02-11 17:20:09 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 116 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:20:09 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:20:09 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:23:00 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 5416 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:23:00 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:23:00 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:29:53 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 2552 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:29:53 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:29:53 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:30:25 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 2252 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:30:25 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:30:25 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:31:39 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9056 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:31:39 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:31:39 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:31:49 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.24 seconds (JVM running for 12.409) 
+2018-02-11 17:38:24 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 3952 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:38:24 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:38:24 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:38:35 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.773 seconds (JVM running for 13.933) 
+2018-02-11 17:39:31 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7072 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:39:31 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:39:31 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:39:41 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.008 seconds (JVM running for 12.182) 
+2018-02-11 17:39:51 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-02-11 17:39:52 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 999(Long) 
+2018-02-11 17:39:52 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-02-11 17:43:45 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9156 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:43:45 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:43:45 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:43:56 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 12.679 seconds (JVM running for 14.667) 
+2018-02-11 17:44:11 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-02-11 17:44:11 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 999(Long) 
+2018-02-11 17:44:11 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-02-11 17:51:25 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9092 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:51:25 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:51:25 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:51:38 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 14.104 seconds (JVM running for 15.579) 
+2018-02-11 17:51:49 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-02-11 17:51:49 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 999(Long) 
+2018-02-11 17:51:49 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-02-11 17:52:01 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-02-11 17:52:01 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 999(Long) 
+2018-02-11 17:52:01 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-02-11 17:52:22 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-02-11 17:52:22 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 999(Long) 
+2018-02-11 17:52:22 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-02-11 17:52:26 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-02-11 17:52:26 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-02-11 17:52:26 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-02-11 17:54:17 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7544 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 17:54:17 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 17:54:17 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 17:54:25 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 9.86 seconds (JVM running for 11.042) 
+2018-02-11 17:54:36 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-02-11 17:54:36 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-02-11 17:55:12 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-02-11 17:55:12 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-02-11 17:55:12 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-02-11 18:02:53 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 2424 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 18:02:53 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 18:02:53 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 18:03:02 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 11.282 seconds (JVM running for 12.468) 
+2018-02-11 18:03:22 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-02-11 18:03:22 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-02-11 18:03:22 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-02-11 18:05:52 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 11116 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-02-11 18:05:52 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-02-11 18:05:52 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-02-11 18:06:01 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 10.452 seconds (JVM running for 11.542) 
+2018-02-11 18:06:17 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-02-11 18:06:18 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1111111(Long), sunll(String), springboot(String), www.baidu.com(String) 
+2018-02-11 18:06:18 [http-nio-8888-exec-10] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
