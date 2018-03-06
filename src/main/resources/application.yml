@@ -51,18 +51,17 @@ spring:
 
   #################redis基础配置#################
   redis:
-    host: localhost
+    host: 60.205.181.33
     port: 6379
-    password:
+    password: lemolang
     database: 0
     timeout: 3000
-#################redis线程池设置#################
+  ###############redis线程池设置#################
     pool:
       max-idle: 100
       min-idle: 1
       max-active: 1000
       max-wait: -1
-
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml

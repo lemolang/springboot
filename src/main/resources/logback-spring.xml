@@ -12,9 +12,9 @@
 
 	<!-- 记录到文件 (每天一个文件) -->
 	<appender name="dailyRollingFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
-		<File>log/dragonshard.log</File>   <!-- 最新的log文件名 -->
+		<File>log/sunll-springboot.log</File>   <!-- 最新的log文件名 -->
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-			<FileNamePattern>log/dragonshard.%d{yyyy-MM-dd}.log</FileNamePattern>  <!-- 历史文件名 -->
+			<FileNamePattern>log/sunll-springboot.%d{yyyy-MM-dd}.log</FileNamePattern>  <!-- 历史文件名 -->
 			<maxHistory>30</maxHistory> <!-- 保留 30 天的日志 -->
 		</rollingPolicy>
 		<encoder>
@@ -39,7 +39,7 @@
 	</springProfile>-->
 
 	<!-- 其他框架的日志输出 -->
-	<!--<property name="LOG_FILE" value="log/spring-boot-blog-tmp.log"/>-->
-	<!--<logger name="org.springframework.web" level="INFO"/>   &lt;!&ndash; spring web 包下的 logger, 只输出 INFO 级别的 &ndash;&gt;-->
-	<!--<logger name="org.springframework.boot.web.filter" level="INFO"/>-->
+	<property name="LOG_FILE" value="log/spring-boot-blog-tmp.log"/>
+	<logger name="org.springframework.web" level="INFO"/>   <!-- spring web 包下的 logger, 只输出 INFO 级别的 -->
+	<logger name="org.springframework.boot.web.filter" level="INFO"/>
 </configuration>

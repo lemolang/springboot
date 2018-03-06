@@ -1,0 +1,346 @@
+2018-03-05 14:31:02 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10856 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 14:31:02 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 14:31:02 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 14:36:14 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10608 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 14:36:14 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 14:36:14 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 14:37:45 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 3028 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 14:37:45 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 14:37:45 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 14:37:58 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 14.962 seconds (JVM running for 16.376) 
+2018-03-05 14:38:50 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 14:38:50 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 14:38:50 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 14:42:10 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 14:42:10 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 14:42:10 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 14:44:03 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 14:44:03 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 14:44:03 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:16:27 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 964 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:16:27 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:16:27 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:16:39 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 14.113 seconds (JVM running for 15.354) 
+2018-03-05 15:16:49 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:16:49 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:16:49 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-05 15:16:51 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:16:51 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:16:51 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-05 15:17:03 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:17:03 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:17:03 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-05 15:17:04 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:17:04 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:17:04 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 0 
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 1(Long), sunll(String), springboot(String), www://baidu.com(String) 
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==>  Preparing: insert into learn_resource ( id, author, title, url ) values ( ?, ?, ?, ? )  
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ ==> Parameters: 11(Long), sunll1(String), springboot1(String), www.baidu.com1(String) 
+2018-03-05 15:18:32 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.insertSelective : 
+ <==    Updates: 1 
+2018-03-05 15:18:40 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:18:40 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:18:40 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:19:01 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:19:01 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:19:01 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:19:04 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:19:04 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:19:04 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:19:09 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:19:09 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:19:09 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:19:13 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:19:13 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:19:13 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:19:27 [http-nio-8888-exec-9] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:19:37 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:19:37 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:19:37 [http-nio-8888-exec-5] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:19:39 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:21:20 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:21:28 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:21:28 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:21:28 [http-nio-8888-exec-1] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:21:31 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:21:31 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:21:31 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:21:34 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:21:34 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:21:34 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:21:37 [http-nio-8888-exec-2] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:21:52 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:21:53 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll11(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:21:53 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:21:55 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:21:55 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:21:55 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:22:02 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:29:14 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10508 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:29:14 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:29:14 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:29:27 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.476 seconds (JVM running for 16.79) 
+2018-03-05 15:31:21 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 7468 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:31:21 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:31:21 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:31:33 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 13.677 seconds (JVM running for 15.036) 
+2018-03-05 15:34:58 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9296 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:34:58 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:34:58 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:35:11 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.236 seconds (JVM running for 16.536) 
+2018-03-05 15:37:12 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 1816 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:37:12 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:37:12 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:37:26 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.911 seconds (JVM running for 17.123) 
+2018-03-05 15:39:02 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9728 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:39:02 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:39:02 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:39:14 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 13.87 seconds (JVM running for 15.584) 
+2018-03-05 15:42:18 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10276 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:42:18 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:42:18 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:42:31 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 14.711 seconds (JVM running for 16.126) 
+2018-03-05 15:48:04 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 10324 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:48:04 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:48:04 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:48:16 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 13.61 seconds (JVM running for 15.08) 
+2018-03-05 15:48:54 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9636 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:48:54 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:48:54 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:49:11 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 19.3 seconds (JVM running for 20.716) 
+2018-03-05 15:49:20 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:49:20 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:49:20 [http-nio-8888-exec-4] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:49:25 [http-nio-8888-exec-8] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:49:48 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==>  Preparing: update learn_resource SET author = ?, title = ?, url = ? where id = ?  
+2018-03-05 15:49:48 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ ==> Parameters: sunll11(String), springboot(String), www://baidu.com(String), 1(Long) 
+2018-03-05 15:49:48 [http-nio-8888-exec-6] DEBUG c.s.s.m.L.updateByPrimaryKeySelective : 
+ <==    Updates: 1 
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==>  Preparing: SELECT count(0) FROM learn_resource  
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ ==> Parameters:  
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy_COUNT : 
+ <==      Total: 1 
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==>  Preparing: select id, author, title, url from learn_resource LIMIT ?  
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ ==> Parameters: 2(Integer) 
+2018-03-05 15:49:57 [http-nio-8888-exec-3] DEBUG c.s.s.m.L.selectBy : 
+ <==      Total: 2 
+2018-03-05 15:50:01 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==>  Preparing: select id, author, title, url from learn_resource where id = ?  
+2018-03-05 15:50:01 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ ==> Parameters: 1(Long) 
+2018-03-05 15:50:01 [http-nio-8888-exec-7] DEBUG c.s.s.m.L.selectByPrimaryKey : 
+ <==      Total: 1 
+2018-03-05 15:54:29 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 5284 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:54:29 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:54:29 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:54:42 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.391 seconds (JVM running for 16.664) 
+2018-03-05 15:55:55 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 2700 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:55:55 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:55:55 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:56:09 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 16.301 seconds (JVM running for 17.697) 
+2018-03-05 15:57:29 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 5004 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 15:57:30 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 15:57:30 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 15:57:43 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 14.987 seconds (JVM running for 16.332) 
+2018-03-05 16:05:07 [main] INFO  c.s.s.SpringbootApplication : 
+ Starting SpringbootApplication on sunll with PID 9840 (D:\jtdspace\springboot\target\classes started by Administrator in D:\jtdspace\springboot) 
+2018-03-05 16:05:07 [main] DEBUG c.s.s.SpringbootApplication : 
+ Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE 
+2018-03-05 16:05:07 [main] INFO  c.s.s.SpringbootApplication : 
+ No active profile set, falling back to default profiles: default 
+2018-03-05 16:05:20 [main] INFO  c.s.s.SpringbootApplication : 
+ Started SpringbootApplication in 15.953 seconds (JVM running for 17.361) 

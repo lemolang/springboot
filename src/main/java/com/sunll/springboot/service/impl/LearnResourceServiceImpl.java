@@ -6,6 +6,8 @@ import com.sunll.springboot.entity.LearnResource;
 import com.sunll.springboot.mapper.LearnResourceMapper;
 import com.sunll.springboot.service.LearnResourceService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.CacheEvict;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Isolation;
 import org.springframework.transaction.annotation.Propagation;
@@ -37,6 +39,7 @@ public class LearnResourceServiceImpl implements LearnResourceService {
     @Override
     @Transactional(propagation = Propagation.REQUIRED, readOnly = false,
             isolation = Isolation.DEFAULT)
+    @CacheEvict(value="learnResource", allEntries=true,beforeInvocation=true)
     public int insertSelective(LearnResource record) {
         /*try {
             int num = learnResourceMapper.insertSelective(record);
@@ -69,13 +72,17 @@ public class LearnResourceServiceImpl implements LearnResourceService {
         return 1;
     }
 
+    @Cacheable(value = "learnResource",sync = true)
     @Override
     public LearnResource selectByPrimaryKey(Long id) {
+        System.out.println("in getUser");
         return learnResourceMapper.selectByPrimaryKey(id);
     }
 
+    @Cacheable(value = "learnResource",sync = true)
     @Override
     public PageInfo<LearnResource> selectBy(int pageNum, int pageSize) {
+        System.out.println("in selectBy");
         //1、设置分页信息，包括当前页数和每页显示的总计数
         PageHelper.startPage(pageNum, pageSize);
         //2、执行查询
@@ -85,8 +92,11 @@ public class LearnResourceServiceImpl implements LearnResourceService {
     }
 
     @Override
+    @Transactional(propagation = Propagation.REQUIRED, readOnly = false,
+            isolation = Isolation.DEFAULT)
+    @CacheEvict(value="learnResource", allEntries=true,beforeInvocation=true)
     public int updateByPrimaryKeySelective(LearnResource record) {
-        return 0;
+        return learnResourceMapper.updateByPrimaryKeySelective(record);
     }
 
     @Override
